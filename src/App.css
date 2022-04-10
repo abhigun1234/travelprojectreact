@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
+.btnColor{
+background-color: #61dafb;
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +38,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+.btnOk{
+
+  background-color: green;
+}
+.places{
+
+  display: flex;
+  justify-content: space-around;
 }
